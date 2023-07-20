@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "149962880294",
+    "project_id": "smfa-project",
+    "storage_bucket": "smfa-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149962880294:android:b003140a9ff53d4149fde7",
+        "android_client_info": {
+          "package_name": "com.mycompany.nmissmfa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149962880294-o4o47gkcafj3ldue61r0b6t8l20h5q24.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.nmissmfa",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "149962880294-a5dvtd3b2lvq1ss4amumic562ckr79o9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfOT-_iPlahDRRxDclOu2_T8YQkX84ujQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149962880294-a5dvtd3b2lvq1ss4amumic562ckr79o9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "149962880294-8am14ggiilo7qf10r1ts0iakbetq931b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.smfaapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149962880294:android:6e74faf3eb0f161549fde7",
+        "android_client_info": {
+          "package_name": "com.nmis.smfa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149962880294-obq52uabepc936d6g8a4rp9heat0nm8c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nmis.smfa",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "149962880294-a5dvtd3b2lvq1ss4amumic562ckr79o9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfOT-_iPlahDRRxDclOu2_T8YQkX84ujQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149962880294-a5dvtd3b2lvq1ss4amumic562ckr79o9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "149962880294-8am14ggiilo7qf10r1ts0iakbetq931b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.smfaapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
